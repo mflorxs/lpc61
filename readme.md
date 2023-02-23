@@ -1,3 +1,3 @@
 LPC61 repositorio de ejemplo
-Bienvenido al repositorio LPC61
-Have Fun
+BIenvenido al repositorio LPC61
+Have fun
